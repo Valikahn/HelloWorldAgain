@@ -1,8 +1,8 @@
 # HelloWorldAgain
 
 <div align="center">
-    <a href="https://github.com/Valikahn/lamp" target="_blank">
-        <img alt="lamp" src="https://github.com/Valikahn/lamp/blob/master/web/img/book.png">
+    <a href="https://github.com/Valikahn/HelloWorldAgain" target="_blank">
+        <img alt="lamp" src="https://github.com/Valikahn/HelloWorldAgain/blob/master/img/book.png">
     </a>
 </div>
 
